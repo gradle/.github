@@ -25,7 +25,7 @@ Though we develop and maintain other internet-accessible systems or services, we
  - Gradle Build Cache ([Docker Image](https://hub.docker.com/r/gradle/build-cache-node/))
  - Official Gradle Plugins published under the Gradle organization, or [by our current team](https://github.com/orgs/gradle/people)
  - Any non-example (ie. sample code) and non-archived repositories under the [Gradle GitHub Organization](https://github.com/gradle)
- - Third party dependencies of any of the above; however, the report must demonstrates how the vulnerability impacts Gradle’s use of that dependency\
+ - Third party dependencies of any of the above; however, the report must demonstrates how the vulnerability impacts Gradle’s use of that dependency
 
 ### Services
 #### Scope

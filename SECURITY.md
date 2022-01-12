@@ -55,7 +55,7 @@ Though we develop and maintain other internet-accessible systems or services, we
  - static-share.gradle.com
 
 ## Rewards
-At this time, we do not offer financial “Bug Bounties”. However, for previously unreported vulnerability reports that trigger a code or configuration change, we will be eligible to receive swag as a thank you for your contribution.
+At this time, we do not offer financial “Bug Bounties”. However, for previously unreported vulnerability reports that trigger a code or configuration change, you will be eligible to receive swag as a thank you for your contribution.
 
 To be eligible for a reward under this program:
  - The security bug must be original and previously unreported.

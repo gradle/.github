@@ -89,7 +89,7 @@ Gradle plugins that are not officially published by Gradle or current members of
 For the Gradle Build Tool and for Gradle Plugins we are particularly interested in research into the following areas:
  - Logging of sensitive information above the ‘debug’ log level
  - Dependency confusion types of vulnerabilities
- - Vulnerabilities in Gradle security features like dependency verification and repository filtering
+ - Vulnerabilities in Gradle security features like [dependency verification](https://docs.gradle.org/current/userguide/dependency_verification.html) and [repository filtering](https://docs.gradle.org/current/userguide/declaring_repositories.html#sec:repository-content-filtering)
 
 ## Guidelines 
 The below rules have been developed to encourage vulnerability research and to distinguish between legitimate research and malicious attacks. We ask that you comply with this Policy by adhering to the following guidelines:

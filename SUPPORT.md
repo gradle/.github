@@ -4,6 +4,6 @@ You can search for [help](https://gradle.org/help/) across our website, forums a
 
 You can attend one of our [FREE online classes](https://gradle.org/training/).
 
-You can subscribe to our [monthly newsletter](https://newsletter.gradle.com/).
+You can subscribe to our [monthly newsletter](https://newsletter.gradle.org/).
 
 We have lots of [other resources](https://gradle.org/resources/) to help you learn more about Gradle.

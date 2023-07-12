@@ -32,9 +32,6 @@ Though we develop and maintain other internet-accessible systems or services, we
  - *.gradle.org
  - *.gradle.com
  - *.grdev.net
- - *.gradle-dn.com
- - gradle-prod-colony.herokuapp.com
- - gradle-dev-colony.herokuapp.com
 
 ## Out-of-Scope
 ### Domains Out-of-Scope

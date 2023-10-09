@@ -35,19 +35,22 @@ Though we develop and maintain other internet-accessible systems or services, we
 
 ## Out-of-Scope
 ### Domains Out-of-Scope
- - t.gradle.com -- CNAME to Salesloft
- - go.gradle.com -- CNAME to Pardot
- - tv.gradle.com -- CNAME to Pardot
- - www2.gradle.org -- CNAME to Pardot
- - www2.gradle.com -- CNAME to Pardot
- - email.gradle.org  -- CNAME to Mailgun
- - k1._domainkey.gradle.com -- CNAME to DKIM MCSV
- - status.gradle.com   -- CNAME to Atlassian status page
- - email.gradle.org -- CNAME to mailgun.org
- - mail.gradle.com -- CNAME to Google Hosted Domain
- - calendar.gradle.com -- CNAME to Google Hosted Domain
- - support.gradle.com – CNAME to zendesk
- - repo.gradle.org -- CNAME to gradle.jfrog.org
+If a DNS Record is pointing to a third party SaaS provider, it's likely out of scope of our Vulnerability Disclosure Policy on the basis that it's pointing to a third party that we can't authorise testing against. Such as;  
+
+ - t.gradle.com
+ - go.gradle.com
+ - tv.gradle.com
+ - www2.gradle.org
+ - www2.gradle.com
+ - email.gradle.org
+ - k1._domainkey.gradle.com
+ - status.gradle.com
+ - email.gradle.org
+ - mail.gradle.com
+ - calendar.gradle.com 
+ - support.gradle.com
+ - repo.gradle.org 
+ - event.gradle.com
  - share.gradle.com
  - static-share.gradle.com
 

@@ -21,7 +21,7 @@ Though we develop and maintain other internet-accessible systems or services, we
 ### Software
 #### Scope
  - Gradle Build Tool ([Code](https://github.com/gradle/gradle))
- - Gradle Enterprise
+ - Develocity (fka. Gradle Enterprise)
  - Gradle Build Cache ([Docker Image](https://hub.docker.com/r/gradle/build-cache-node/))
  - Official Gradle Plugins published under the Gradle organization, or [by our current team](https://github.com/orgs/gradle/people)
  - Any non-example (ie. sample code) and non-archived repositories under the [Gradle GitHub Organization](https://github.com/gradle)
@@ -131,4 +131,4 @@ Suggestions of useful information include:
  - Thorough description of the vulnerability.
  - Links to source code if the project is open source.
  - Proof of concepts demonstrating the vulnerability.
-A list of impacted endpoints or resources.
+ - A list of impacted endpoints or resources.

@@ -35,7 +35,7 @@ Though we develop and maintain other internet-accessible systems or services, we
 
 ## Out-of-Scope
 ### Domains Out-of-Scope
-If a DNS Record is pointing to a third party SaaS provider, it's likely out of scope of our Vulnerability Disclosure Policy on the basis that it's pointing to a third party that we can't authorise testing against. Such as;  
+If a DNS Record is pointing to a third party SaaS provider, it's likely out of scope of our Vulnerability Disclosure Policy on the basis that it's pointing to a third party that we can't authorize testing against. Such as;  
 
  - t.gradle.com
  - go.gradle.com

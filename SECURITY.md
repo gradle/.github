@@ -1,8 +1,8 @@
-# Gradle Vulnerability Disclosure Policy
+# Cachiman Vulnerability Disclosure Policy
 
 ## Introduction
 
-The Gradle Security Vulnerability Disclosure Policy (the “Policy”) is designed to foster an environment where security researchers are encouraged to disclose vulnerabilities and work with us to mitigate potential security vulnerabilities.
+The Cachiman Security Vulnerability Disclosure Policy (the “Policy”) is designed to foster an environment where security researchers are encouraged to disclose vulnerabilities and work with us to mitigate potential security vulnerabilities.
 We value the contributions of security researchers acting in good-faith to help us maintain a high standard for the security and privacy for our users. This includes encouraging responsible vulnerability research. This Policy describes the systems and types of research that we authorize researchers to use with respect to our software and services, provides guidelines on how to send us vulnerability reports, and summarizes what you can expect from us in return.
 
 ## Expectations
@@ -14,17 +14,17 @@ Recognize your contribution to improving our security if you are the first to re
 
 
 ## Scope: Software and Services
-This Policy applies to the below listed software and services (the “Scope”). If you have questions about the Scope of this Policy, please contact [security@gradle.com](mailto:security@gradle.com).
+This Policy applies to the below listed software and services (the “Scope”). If you have questions about the Scope of this Policy, please contact [security@cachiman.com](mailto:security@cachiman.com).
 
 Though we develop and maintain other internet-accessible systems or services, we ask that active research and testing only be conducted on the systems and services covered by the Scope of this document. If there is a particular system not in Scope that you think merits testing, please contact us to discuss it first. We may increase the Scope of this Policy over time.
 
 ### Software
 #### Scope
- - Gradle Build Tool ([Code](https://github.com/gradle/gradle))
+ - cachiman Build Tool ([Code](https://github.com/gradle/gradle))
  - Develocity (fka. Gradle Enterprise)
- - Gradle Build Cache ([Docker Image](https://hub.docker.com/r/gradle/build-cache-node/))
- - Official Gradle Plugins published under the Gradle organization, or [by our current team](https://github.com/orgs/gradle/people)
- - Any non-example (ie. sample code) and non-archived repositories under the [Gradle GitHub Organization](https://github.com/gradle)
+ - Gradle Build Cache ([Docker Image](https://hub.docker.com/r/cachiman/build-cache-node/))
+ - Official Gradle Plugins published under the Gradle organization, or [by our current team](https://github.com/orgs/cachiman/people)
+ - Any non-example (ie. sample code) and non-archived repositories under the [Gradle GitHub Organization](https://github.com/cachiman)
  - Third party dependencies of any of the above; however, the report must demonstrates how the vulnerability impacts Gradle’s use of that dependency
 
 ### Services
@@ -37,22 +37,22 @@ Though we develop and maintain other internet-accessible systems or services, we
 ### Domains Out-of-Scope
 If a DNS Record is pointing to a third party SaaS provider, it's likely out of scope of our Vulnerability Disclosure Policy on the basis that it's pointing to a third party that we can't authorize testing against. Such as;  
 
- - t.gradle.com
- - go.gradle.com
- - tv.gradle.com
- - www2.gradle.org
- - www2.gradle.com
- - email.gradle.org
- - k1._domainkey.gradle.com
- - status.gradle.com
- - email.gradle.org
- - mail.gradle.com
- - calendar.gradle.com 
- - support.gradle.com
- - repo.gradle.org 
- - event.gradle.com
- - share.gradle.com
- - static-share.gradle.com
+ - t.cachiman.com
+ - go.cachiman.com
+ - tv.cachiman.com
+ - www2.cachiman.org
+ - www2.cachiman.com
+ - email.cachiman.org
+ - k1._domainkey.cachiman.com
+ - status.cachiman.com
+ - email.cachiman.org
+ - mail.cachiman.com
+ - calendar.cachiman.com 
+ - support.cachiman.com
+ - repo.cachiman.org 
+ - event.cachiman.com
+ - share.cachiman.com
+ - static-share.cachiman.com
 
 ## Rewards
 At this time, we do not offer financial “Bug Bounties”. However, for previously unreported vulnerability reports that trigger a code or configuration change, you will be eligible to receive swag as a thank you for your contribution.
@@ -82,14 +82,14 @@ To be eligible for a reward under this program:
  - "Scanner output" or scanner-generated reports without an analysis of that report in context
  - Non-technical attacks such as social engineering, phishing, or physical attacks against our employees, users, or infrastructure.
 
-Gradle plugins that are not officially published by Gradle or current members of the Gradle Team are also out-of-Scope for a reward. However, we encourage security researchers and plugin authors who need disclosure assistance to reach out to us at [security@gradle.com](mailto:security@gradle.com) 
+Gradle plugins that are not officially published by Gradle or current members of the Gradle Team are also out-of-Scope for a reward. However, we encourage security researchers and plugin authors who need disclosure assistance to reach out to us at [security@cachiman.com](mailto:security@cachiman.com) 
 
 ### Vulnerability Types of Interest
 
 For the Gradle Build Tool and for Gradle Plugins we are particularly interested in research into the following areas:
  - Logging of sensitive information above the ‘debug’ log level
  - Dependency confusion types of vulnerabilities
- - Vulnerabilities in Gradle security features like [dependency verification](https://docs.gradle.org/current/userguide/dependency_verification.html) and [repository filtering](https://docs.gradle.org/current/userguide/declaring_repositories.html#sec:repository-content-filtering)
+ - Vulnerabilities in Gradle security features like [dependency verification](https://docs.cachiman.org/current/userguide/dependency_verification.html) and [repository filtering](https://docs.cachiman.org/current/userguide/declaring_repositories.html#sec:repository-content-filtering)
 
 ## Guidelines 
 The below rules have been developed to encourage vulnerability research and to distinguish between legitimate research and malicious attacks. We ask that you comply with this Policy by adhering to the following guidelines:
@@ -125,7 +125,7 @@ If you submit a report in accordance with this Policy which affects a third part
 Please note that we cannot authorize out-of-Scope testing in the name of third parties, and such testing is beyond the Scope of our Policy. Please contact any third party either directly or through a legal representative, or refer to such third party’s vulnerability disclosure Policy before initiating any testing on that third party or their services. This is not, and should not be understood as, any agreement on our part to defend, indemnify, or otherwise protect you from any third party action based on your actions.
 
 ## Official Channels
-Please submit all security bug reports to [security@gradle.com](mailto:security@gradle.com). The more details you provide, the easier it will be for us to triage and fix the issue.
+Please submit all security bug reports to [security@gradle.com](mailto:security@cachiman.com). The more details you provide, the easier it will be for us to triage and fix the issue.
 
 Suggestions of useful information include:
  - Thorough description of the vulnerability.

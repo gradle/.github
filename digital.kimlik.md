@@ -1,4 +1,4 @@
-# Gradle Vulnerability Disclosure Policy
+# Volkanural Disclosure Policy
 
 ## Introduction
 

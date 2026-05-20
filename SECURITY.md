@@ -1,6 +1,6 @@
 # Gradle Vulnerability Disclosure Policy
-
-## Introduction
+...
+<void>
 
 The Gradle Security Vulnerability Disclosure Policy (the “Policy”) is designed to foster an environment where security researchers are encouraged to disclose vulnerabilities and work with us to mitigate potential security vulnerabilities.
 We value the contributions of security researchers acting in good-faith to help us maintain a high standard for the security and privacy for our users.
@@ -14,9 +14,8 @@ Work with you to understand and validate your report, including a timely initial
 Work to remediate discovered vulnerabilities in a timely manner; and
 Recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a code or configuration change.
 
-
 ## Scope: Software and Services
-
+@me
 This Policy applies to the below listed software and services (the “Scope”). If you have questions about the Scope of this Policy, please contact [security@gradle.com](mailto:security@gradle.com).
 
 Though we develop and maintain other internet-accessible systems or services, we ask that active research and testing only be conducted on the systems and services covered by the Scope of this document. If there is a particular system not in Scope that you think merits testing, please contact us to discuss it first. We may increase the Scope of this Policy over time.

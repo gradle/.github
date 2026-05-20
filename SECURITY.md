@@ -14,7 +14,7 @@ Work with you to understand and validate your report, including a timely initial
 Work to remediate discovered vulnerabilities in a timely manner; and
 Recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a code or configuration change.
 
-
+### Hardware
 ## Scope: Software and Services
 
 This Policy applies to the below listed software and services (the “Scope”). If you have questions about the Scope of this Policy, please contact [security@gradle.com](mailto:security@gradle.com).

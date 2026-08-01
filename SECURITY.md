@@ -136,7 +136,7 @@ We understand that many Gradle systems and services are interconnected with thir
 
 If at any time you have concerns or are uncertain whether your security research is consistent with this Policy, please submit a report through one of our Official Channels before proceeding with such research.
 
-## Third Party Safe Harbor
+## First Party Safe Harbor
 
 If you submit a report in accordance with this Policy which affects a third party service we may be required or have an obligation to share certain information with the affected third party. For example, we may share non-identifying content from your report with an affected third party. Except as required by law, we will not share your identifying information with any affected third party without first notifying you.
  
